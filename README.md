@@ -1,8 +1,9 @@
-- 👋 Olá, Me chamo @ViniciusClement
-- 👀 Sou estudante de Bacharelado em CiberSegurança (PUC PR) ...
-- 🌱 Matérias que estou estudando - Ethical Hacking / IDS (Intrusion Detection System) / IPS (Intrusion Prevention System) ...
-- 💞️ Sou programador por Hobby ...
-- 📫 <viniciusclemente9680@gmail.com> ...
+- 👋 Hi, I'm Vinicius, but call me Vini
+- 👀 I'm CiberSecurity Major at University PUCPR 
+- 🌱 I'm a Ethical Hacker and I love study Hacking in my free time. 
+- 💞️ I'm Developer for Hobbie.
+- 📫 My E-mail Address is viniciusclemente9680@gmail.com and if you have a Linkdein follow me https://www.linkedin.com/in/vinicius-clemente-718b6317b/
+
 
 <!---
 ViniciusClement/ViniciusClement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
