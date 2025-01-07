@@ -13,8 +13,8 @@
 
 ### Cyber Security Certifications:
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"> 
-        <img src="CEH Master" alt="osee prep" width="64" height="64"/> 
+    <a href="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png" target="_blank" rel="noreferrer"> 
+        <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png" alt="CEH Master" width="64" height="64"/> 
     </a>
     <a href="" target="_blank" rel="noreferrer"> 
         <img src="" alt="Pentest+" width="64" height="64"/> 
