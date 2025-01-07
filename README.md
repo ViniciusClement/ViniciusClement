@@ -1,9 +1,9 @@
 # Hi 👋, I'm Vinicius Clemente (CleQuill)
 ### Penetration Tester && Cybersecurity Researcher  
 
-- 📔 I’m 
-- 📚 I’m currently learning 
-- 💬 Ask me about **buffer overflow, assembly, shellcoding, binary exploitation, exploit dev, malware dev, network, mobile pentesting and Source Code Review and so on**
+- 📔 I’m Penetration Tester
+- 📚 I’m currently learning Active Directory Pentest and and studing to  OSCP 
+- 💬 Ask me about **API, WEB, Android, Wireless, Cloud and so on**
 - 📫 How to reach me **viniciusclemente9680@gmail.com**
 
 ### Connect with me:
