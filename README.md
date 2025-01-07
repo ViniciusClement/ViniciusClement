@@ -17,7 +17,7 @@
         <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png" alt="CEH Master" width="64" height="64"/> 
     </a>
     <a href="" target="_blank" rel="noreferrer"> 
-        <img src="" alt="Pentest+" width="64" height="64"/> 
+        <img src="https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" alt="Pentest+" width="64" height="64"/> 
     </a> 
 </p>
 
