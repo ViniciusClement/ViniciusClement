@@ -14,10 +14,10 @@
 ### Cyber Security Certifications:
 <p align="left">
     <a href="" target="_blank" rel="noreferrer"> 
-        <img src="" alt="osee prep" width="64" height="64"/> 
+        <img src="CEH Master" alt="osee prep" width="64" height="64"/> 
     </a>
     <a href="" target="_blank" rel="noreferrer"> 
-        <img src="" alt="osce3" width="64" height="64"/> 
+        <img src="" alt="Pentest+" width="64" height="64"/> 
     </a> 
 </p>
 
