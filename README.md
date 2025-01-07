@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Vinicius Clemente (CleQuill)
+### Penetration Tester && Cybersecurity Researcher  
 
-<!--
-**ViniciusClement/ViniciusClement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📔 I’m 
+- 📚 I’m currently learning 
+- 💬 Ask me about **buffer overflow, assembly, shellcoding, binary exploitation, exploit dev, malware dev, network, mobile pentesting and Source Code Review and so on**
+- 📫 How to reach me **viniciusclemente9680@gmail.com**
 
-Here are some ideas to get you started:
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/vinicius-clemente-718b6317b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cyber Security Certifications:
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer"> 
+        <img src="" alt="osee prep" width="64" height="64"/> 
+    </a>
+    <a href="" target="_blank" rel="noreferrer"> 
+        <img src="" alt="osce3" width="64" height="64"/> 
+    </a> 
+</p>
+
