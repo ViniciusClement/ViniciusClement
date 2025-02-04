@@ -20,7 +20,8 @@
         <img src="https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" alt="Pentest+" width="64" height="64"/> 
     </a> 
     <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXVzCI3v4MPNj24LCRmnNch6TlDeONlA/Gzg9c5obPoD+xNHYvhbOvpmPKp3uHqya+7AVEDGSMGdJbOeHQee4/jE=" alt="CMPen" width="64" height="64"/> 
+        <img src="![image](https://github.com/user-attachments/assets/6a74b8d3-f2f4-444e-a353-0c7b3bf88de5)
+" alt="CMPen" width="64" height="64"/> 
     </a>
 </p>
 
