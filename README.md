@@ -20,7 +20,7 @@
         <img src="https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" alt="Pentest+" width="64" height="64"/> 
     </a> 
     <a href="" target="_blank" rel="noreferrer"> 
-        <img src="[https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXVzCI3v4MPNj24LCRmnNch6TlDeONlA/Gzg9c5obPoD+xNHYvhbOvpmPKp3uHqya+7AVEDGSMGdJbOeHQee4/jE=)" alt="Pentest+" width="64" height="64"/> 
+        <img src="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXVzCI3v4MPNj24LCRmnNch6TlDeONlA/Gzg9c5obPoD+xNHYvhbOvpmPKp3uHqya+7AVEDGSMGdJbOeHQee4/jE=" alt="CMPen" width="64" height="64"/> 
     </a>
 </p>
 
