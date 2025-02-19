@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vinicius Clemente (CleQuill)
+# Hi, I'm Vinicius Clemente (CleQuill)
 ### Penetration Tester && Cybersecurity Researcher  
 
 - 📔 I’m Penetration Tester
