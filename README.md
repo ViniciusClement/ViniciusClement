@@ -4,7 +4,6 @@
 - 📔 I’m Penetration Tester
 - 📚 I’m currently learning Active Directory Pentest and and studing to  OSCP 
 - 💬 Ask me about **API, WEB, Android, Wireless, Cloud and so on**
-- 📫 How to reach me **viniciusclemente9680@gmail.com**
 
 ### Connect with me:
 <p align="left">
