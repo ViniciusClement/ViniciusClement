@@ -19,7 +19,7 @@
         <img src="https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" alt="Pentest+" width="64" height="64"/> 
     </a> 
     <a>
-        <img src="https://templates.images.credential.net/16947191522574407741170443928939.png" alt="eMAPT" width="80" height="80"/>
+        <img src="https://templates.images.credential.net/16947191522574407741170443928939.png" alt="eMAPT" width="80" height="120"/>
     </a>
 </p>
 
