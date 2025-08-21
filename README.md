@@ -2,7 +2,7 @@
 ### Penetration Tester && Cybersecurity Researcher  
 
 - 📔 I’m Penetration Tester
-- 📚 I’m currently learning Active Directory Pentest and and studing to  OSCP 
+- 📚 I’m currently learning Active Directory Pentest 
 - 💬 Ask me about **API, WEB, Android, Wireless, Cloud and so on**
 
 ### Connect with me:
