@@ -5,6 +5,7 @@
 
 <div align="center">
 - 🔭 I currently work as a Red Team Technical and my free time i hunt a Bug
+  
 - 🔖 I hold the majors offensive security certifications **OSCP, CEH, eMPAT, CRTA, Pentest+**
 
 </div>
