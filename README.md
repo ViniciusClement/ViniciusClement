@@ -22,17 +22,14 @@
 ---
 <div>
 <p align="center">
-    <a href="https://certificates.blackhat.com/04634f86-3ad7-4c2e-b38e-08560949a85c" target="_blank" rel="noreferrer"> 
-        <img src="https://templates.images.credential.net/16583524934465784585269502996387.png" alt="osee prep" width="40" height="40"/> 
-    </a>
     <a href="https://www.credly.com/badges/0c5e4089-a2e1-475a-af36-afeaeabe0709" target="_blank" rel="noreferrer"> 
-        <img src="https://images.credly.com/size/680x680/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="osce3" width="40" height="40"/> 
+        <img src="https://images.credly.com/size/680x680/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="oscp" width="40" height="40"/> 
     </a>
   <a href="https://certificates.blackhat.com/04634f86-3ad7-4c2e-b38e-08560949a85c" target="_blank" rel="noreferrer"> 
         <img src="https://templates.images.credential.net/16583524934465784585269502996387.png" alt="osee prep" width="40" height="40"/> 
     </a>
   <a href="https://certificates.blackhat.com/04634f86-3ad7-4c2e-b38e-08560949a85c" target="_blank" rel="noreferrer"> 
-        <img src="https://templates.images.credential.net/16583524934465784585269502996387.png" alt="osee prep" width="40" height="40"/> 
+        <img src="[https://templates.images.credential.net/16583524934465784585269502996387.png](https://images.credly.com/size/680x680/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob)" alt="osee prep" width="40" height="40"/> 
     </a>
 </p>
 </div>
