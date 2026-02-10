@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, you can call me Vinicius Clemente (CleQuill) 👋</h1>
+<h1 align="center">Hi there, I'm Vinicius Clemente (CleQuill) 👋</h1>
 <p align="center">
   <img src="">
 </p>
