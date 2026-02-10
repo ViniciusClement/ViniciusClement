@@ -25,8 +25,8 @@
     <a href="https://www.credly.com/badges/0c5e4089-a2e1-475a-af36-afeaeabe0709" target="_blank" rel="noreferrer"> 
         <img src="https://images.credly.com/size/680x680/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="oscp" width="40" height="40"/> 
     </a>
-  <a href="https://certs.ine.com/c541de96-1844-4d0d-bc0f-44436e9a41f1#acc.PMHdD28A" target="_blank" rel="noreferrer"> 
-        <img src="https://certs.ine.com/c541de96-1844-4d0d-bc0f-44436e9a41f1#acc.PMHdD28A" alt="osee prep" width="40" height="40"/> 
+  <a href="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png" target="_blank" rel="noreferrer"> 
+        <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png" alt="osee prep" width="40" height="40"/> 
     </a>
     <a href="https://certs.ine.com/c541de96-1844-4d0d-bc0f-44436e9a41f1#acc.PMHdD28A" target="_blank" rel="noreferrer"> 
         <img src="https://certs.ine.com/c541de96-1844-4d0d-bc0f-44436e9a41f1#acc.PMHdD28A" alt="osee prep" width="40" height="40"/> 
