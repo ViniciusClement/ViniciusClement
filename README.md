@@ -28,9 +28,3 @@
     </a>
   </p>
 </div> 
-
-<p align="center">
-  <a href="" >
-    <img height="20em" src="https://github.com/rodolfomarianocy/rodolfomarianocy/assets/54555784/138f6d26-2fe8-42f1-807a-3f708908dba9" />
-  </a>
-</p>
