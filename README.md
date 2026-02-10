@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vinicius Clemente (CleQuill) 👋</h1>
 <p align="center">
-  <img src="">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVxZGNzbWJjanA5YWcyMTE3ZjRiNmcyMGg2YTVoMjlrYmoxYXBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif">
 </p>
 
 <div align="center">
