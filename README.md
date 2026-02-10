@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, you can call me 0xCleQuill! 👋</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54555784/187353226-669cd86c-751e-4905-99b3-ec089a1261a7.gif">
+  <img src="">
 </p>
 
 <div align="center">
