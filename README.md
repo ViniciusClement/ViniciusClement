@@ -17,20 +17,20 @@
 ---
 <div>
   <p align="center">
-    <a href="https://rodolfomarianocy.medium.com" >
+    <a href="" >
       <img height="30em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
-    <a href="Https://linkedin.com/in/rodolfomarianocy" >
+    <a href="" >
       <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://tryhackme.com/p/xFriday">
+    <a href="">
       <img height="30em" src="https://tryhackme-badges.s3.amazonaws.com/xFriday.png" alt="TryHackMe">
     </a>
   </p>
 </div> 
 
 <p align="center">
-  <a href="https://hackerone.com/rodolfomarianocy" >
+  <a href="" >
     <img height="20em" src="https://github.com/rodolfomarianocy/rodolfomarianocy/assets/54555784/138f6d26-2fe8-42f1-807a-3f708908dba9" />
   </a>
 </p>
