@@ -20,10 +20,8 @@
 </div> 
 
 ---
-
 <div>
-  ### Some Badges:
-<p align="left">
+<p align="center">
     <a href="https://certificates.blackhat.com/04634f86-3ad7-4c2e-b38e-08560949a85c" target="_blank" rel="noreferrer"> 
         <img src="https://templates.images.credential.net/16583524934465784585269502996387.png" alt="osee prep" width="40" height="40"/> 
     </a>
