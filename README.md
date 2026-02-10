@@ -11,14 +11,8 @@
 
 <div>
   <p align="center">
-    <a href="" >
-      <img height="30em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="" >
+    <a href="https://www.linkedin.com/in/vinicius-clemente-718b6317b/" >
       <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="">
-      <img height="30em" src="" alt="TryHackMe">
     </a>
   </p>
 </div> 
